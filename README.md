@@ -8,7 +8,7 @@ Just proof-of-concept.
 ## Live Demo
 You can find a Live Demo at the following Link
 
-[Live Demo](https://markdown.inapp.eu)
+[Live Demo](http://markdown.inapp.eu)
 
 ## License
 
