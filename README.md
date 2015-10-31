@@ -1,9 +1,7 @@
 MarkDown Editor with AngularJs
 =====================
 
-Simple Markdown Editor with AngularJs and CodeMirror
-
-Just proof-of-concept.
+Simple Markdown Editor with AngularJs and CodeMirror for testing
 
 ## Live Demo
 You can find a Live Demo at the following Link
