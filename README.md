@@ -6,7 +6,7 @@ Simple Markdown Editor with AngularJs and CodeMirror for testing
 ## Live Demo
 You can find a Live Demo at the following Link
 
-[Live Demo](http://www.creativemind.info/markdown-angularjs/)
+[Live Demo](http://app.creativemind.info/markdown-angularjs/)
 
 ## License
 
